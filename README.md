@@ -1,4 +1,4 @@
-# 💰 FinSage — Financial Time Series Analysis App
+#  FinSage — Financial Time Series Analysis App
 
 > An interactive Streamlit dashboard for personal finance forecasting, anomaly detection, and health scoring — powered by SARIMA, Prophet, Holt-Winters, XGBoost, and a weighted ensemble model.
 
@@ -163,14 +163,6 @@ Key packages (see `requirements.txt` for pinned versions):
 - [ ] LLM-powered natural language Q&A over your finances
 - [ ] Plaid / bank API integration for live data
 
----
-
-## 📝 License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
----
-
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 Built on top of the `financial_ts_analysis_improved.py` analytical pipeline. Streamlit UI, tab structure, caching strategy, and risk reporting layer added during conversion.
